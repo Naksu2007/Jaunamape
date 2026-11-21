@@ -1,0 +1,18 @@
+Datu kopa: Helpdesk Tickets Dataset
+
+Avots:
+https://github.com/siewkienmah/ml-practice-ticket-triage/tree/main/data
+
+Fails:
+helpdesk_tickets.csv
+
+Lejupielādes datums:
+2026-11-21
+
+Licence:
+Nav skaidri norādīta repozitorija datu mapes aprakstā.
+
+Piezīmes:
+240 ieraksti.
+Satur trūkstošas vērtības (error_code, wait_time_minutes, reported_severity).
+Mērķa kolonna: response_tier.
