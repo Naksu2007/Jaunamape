@@ -52,8 +52,7 @@ Repozitorijā ir pievienoti Python pirmkoda faili, nevis tikai ekrānšāviņi.
 
 Un **rezultati.md** vari ierakstīt savus iegūtos rezultātus:
 
-```markdown
-#Rezultāti
+Rezultāti
 
     Modeļa novērtējums
 
