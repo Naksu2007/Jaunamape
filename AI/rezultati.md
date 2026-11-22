@@ -99,3 +99,10 @@ Ko ar šo modeli NEDRĪKST darīt?
 Iemesls:
 
 Modelis ir apmācīts prognozēt pieteikumu apstrādes līmeni (response_tier), nevis vērtēt tehniķu kompetenci vai darba efektivitāti. Šādam mērķim trūkst nepieciešamo datu, tāpēc secinājumi varētu būt neobjektīvi un nepareizi.
+
+Noslēgums
+Izdevās veiksmīgi iztīrīt datus, apmācīt modeli un iegūt precizitāti 68,8%, kas pārspēj bāzes līniju 45,8%.
+
+Neizdevās sasniegt ļoti augstu precizitāti, jo datu kopā bija trūkstošas vērtības un salīdzinoši neliels ierakstu skaits.
+
+Nākamreiz izmēģinātu vairākus dažādus mašīnmācīšanās modeļus un pielāgotu to parametrus, lai pārbaudītu, vai iespējams iegūt vēl labākus rezultātus.
