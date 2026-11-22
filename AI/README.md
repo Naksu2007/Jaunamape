@@ -44,17 +44,10 @@ Rezultāti
 
 Iegūtie rezultāti aprakstīti failā rezultati.md.
 
-Piezīmes
-Oriģinālais datu fails netiek modificēts.
-Attīrītie dati tiek saglabāti atsevišķā failā tirs.csv.
-Repozitorijā nav arhīvu failu (.zip u.c.).
-Repozitorijā ir pievienoti Python pirmkoda faili, nevis tikai ekrānšāviņi.
-
-Un **rezultati.md** vari ierakstīt savus iegūtos rezultātus:
 
 Rezultāti
 
-    Modeļa novērtējums
+Modeļa novērtējums
 
 Modeļa precizitāte: 68,8%
 
@@ -62,6 +55,6 @@ Bāzes līnija: 45,8%
 
 Modelis pārspēja bāzes līniju par 23,0 procentpunktiem, tādēļ tas prognozē pieteikumu kategorijas precīzāk nekā vienkārša biežākās atbildes izvēle.
 
-    Secinājums
+Secinājums
 
 Modelis ir noderīgs, jo tas sasniedza augstāku precizitāti nekā bāzes līnija. To var izmantot kā atbalsta rīku IT palīdzības dienesta pieteikumu prioritizēšanai un novirzīšanai atbildīgajiem speciālistiem.
